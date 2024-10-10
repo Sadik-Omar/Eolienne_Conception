@@ -1,0 +1,12 @@
+﻿# 
+# Ce fichier contient les valeurs des paramètres des points de calcul qui ont été mis à jour avec succès par Ansys Workbench.
+# Nom du projet : session 1
+# Date de création : 12/04/2023 23:52:51
+# 
+# 12/04/2023 23:52:51
+# Les paramètres définis dans le projet sont :
+# ,P1 - Maillage Taille de simplification [m]
+# 
+# La ligne d'en-tête suivante définit le nom des colonnes en référence aux paramètres.
+Nom,P1
+DP 0,0

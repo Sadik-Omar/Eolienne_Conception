@@ -1,0 +1,16 @@
+[1205/091908.732:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[1205/091909.576:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0201/221443.086:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0201/221444.050:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0202/002035.546:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0202/002036.669:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0202/213515.978:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0202/213516.766:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0202/214910.216:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0202/214910.950:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0202/221251.008:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0202/221251.752:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[1236:13332:0202/221258.249:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1236:13332:0202/221258.249:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\DELL\AppData\Local\cx2320\QtWebEngine\Default\GPUCache to C:\Users\DELL\AppData\Local\cx2320\QtWebEngine\Default\old_GPUCache_000
+[1236:13332:0202/221258.249:ERROR:disk_cache.cc(132)] Unable to create cache
+[1236:13332:0202/221258.249:ERROR:shader_disk_cache.cc(604)] Shader Cache Creation failed: -2

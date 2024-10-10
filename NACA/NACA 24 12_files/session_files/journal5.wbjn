@@ -1,0 +1,15 @@
+# encoding: utf-8
+# 2023 R2
+SetScriptVersion(Version="23.2.142")
+system1 = GetSystem(Name="FFF 3")
+geometry1 = system1.GetContainer(ComponentName="Geometry")
+geometry1.Edit()
+template1 = GetTemplate(TemplateName="Fluid Flow")
+system2 = GetSystem(Name="FFF 1")
+system3 = template1.CreateSystem(
+    Position="Right",
+    RelativeTo=system2)
+geometry2 = system3.GetContainer(ComponentName="Geometry")
+geometry2.Edit()
+Save(Overwrite=True)
+Open(FilePath="C:/Users/p/Desktop/S7/Projet/tripale naca 4412.wbpj")

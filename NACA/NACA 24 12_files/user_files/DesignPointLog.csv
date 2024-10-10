@@ -1,0 +1,12 @@
+﻿# 
+# Ce fichier contient les valeurs des paramètres des points de calcul qui ont été mis à jour avec succès par Ansys Workbench.
+# Nom du projet : NACA 24 12
+# Date de création : 12/05/2023 08:48:39
+# 
+# 12/05/2023 08:48:39
+# Les paramètres définis dans le projet sont :
+# ,P1 - Pivoter1.FD9 [degree]
+# 
+# La ligne d'en-tête suivante définit le nom des colonnes en référence aux paramètres.
+Nom,P1
+DP 0,0

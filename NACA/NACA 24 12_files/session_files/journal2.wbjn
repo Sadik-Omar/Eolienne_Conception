@@ -1,0 +1,17 @@
+# encoding: utf-8
+# 2023 R2
+SetScriptVersion(Version="23.2.142")
+system1 = GetSystem(Name="FFF 1")
+geometry1 = system1.GetContainer(ComponentName="Geometry")
+geometry1.Edit()
+geometry1.Exit()
+geometry1.Edit()
+results1 = system1.GetContainer(ComponentName="Results")
+results1.Edit()
+template1 = GetTemplate(TemplateName="Fluid Flow")
+system2 = template1.CreateSystem()
+system2.DisplayText = "Cylindre"
+Save(Overwrite=True)
+system2.DisplayText = "Seance 1"
+Save(Overwrite=True)
+Save(Overwrite=True)
